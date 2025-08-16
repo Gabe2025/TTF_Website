@@ -1,12 +1,9 @@
 # EstateAgency
 
-![EstateAgency](https://github.com/AhmedMohamed797/EstateAgency/blob/master/assets/imgs/preview.png)
-
 ## Description
 EstateAgency is a real estate website designed to showcase properties for sale or rent. It features a modern and responsive design, making it accessible on all devices.
 
 ## Live Demo
-[Visit the Website](https://ahmedmohamed797.github.io/EstateAgency/)
 
 ## Features
 - Responsive design
@@ -19,6 +16,3 @@ EstateAgency is a real estate website designed to showcase properties for sale o
 - CSS
 - Bootstrap 5.3
 - Font Awesome 6.6.0
-
-## Author
-**Ahmed Mohamed**
